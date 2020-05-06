@@ -10,7 +10,9 @@
 
 @media (max-width: 767px){
 
-
+	.menu{
+		text-align: center;
+	}
 
 	.Box1{
 		border: 2px solid;
@@ -93,6 +95,10 @@
 
 
 @media (min-width: 768px) and (max-width: 991px){
+	.menu{
+		text-align: center;
+	}
+
 	.Box1{
 		border: 2px solid;
 		width: 45%;
@@ -184,6 +190,11 @@
 
 @media (min-width: 992px){
 		
+
+	.menu{
+		text-align: center;
+	}
+	
 		.maincontainer{
 			display: flex;
 			justify-content: space-;
